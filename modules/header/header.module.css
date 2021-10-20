@@ -19,17 +19,3 @@
     list-style: none;
     text-decoration: none;
 }
-
-.heroImg {
-    height: 300px;
-    z-index: 0;
-}
-
-.logoImage {
-    height: 50px;
-    z-index: 1;
-}
-
-.landingText {
-    z-index: 2;
-}
